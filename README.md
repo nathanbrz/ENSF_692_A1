@@ -1,3 +1,8 @@
+## Name and Inspirational Quote
+My name is Nathan De Oliveira and my favourite inspirational quote is:
+
+*"Just because you understand why someone does something or acts a certain way, doesn't mean oyu have to put up with it."*
+
 ## 📝 ENSF 692 - Assignment 1 Tasks
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
